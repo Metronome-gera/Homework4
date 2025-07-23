@@ -30,6 +30,7 @@ public class Main {
         if (peopleAge >=7 && peopleAge <=17){
             System.out.printf("Ваш возраст "+peopleAge+" вы должны учится в школе");
         }
+             //Жи есть
         if (peopleAge >=18 && peopleAge <=24){
             System.out.printf("Ваш возраст "+peopleAge+" скорее всего вы учитесь в университете");
         }
